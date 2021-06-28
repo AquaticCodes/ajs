@@ -1,0 +1,22 @@
+{
+  "name": "ajs",
+  "version": "1.0.0",
+  "description": "This is a basic framework to simple JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "ajs -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AquaticCodes/ajs.git"
+  },
+  "keywords": [
+    "framework"
+  ],
+  "author": "aquaticcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AquaticCodes/ajs/issues"
+  },
+  "homepage": "https://github.com/AquaticCodes/ajs#readme"
+}
